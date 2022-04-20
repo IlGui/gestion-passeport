@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Monpasseport.ci - Accueil</title>
+  <meta content="Monpasseport.ci " name="description">
+  <meta content="Snedai, Monpasseport" name="keywords">
+  <meta name="csrf-token" content="uhcHF9AweygxBTXvFGezfgns3E3vBg8jYCfa0zuy">
+
+  <!-- Favicons -->
+  <link href="/assets/img/favicon.png" rel="icon">
+  <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+ 
+
+ <link href="/assets/css/plugins/fonts.googleapis.com.css" rel="stylesheet">
+  <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="/assets/css/style.css?id=399c874c2a7b53f0ec01" rel="stylesheet">
+  
+
+</head>
+
+<body>
+  
+  <!-- ======= Mobile nav toggle button ======= -->
+  <button type="button" class="mobile-nav-toggle d-xl-none" style="padding: unset;"><i class="icofont-navigation-menu"></i></button>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex flex-column justify-content-center">
+
+     <!-- ======= Header/ Navbar ======= -->
+  <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav" style="display: block;height: 105px">
+    <div class="container" style="margin: 0 auto">
+      
+      
+      <a href="/">
+        <img id="logo" src="/assets/img/logo_snedai_blanc.svg" style="height: 55px;margin-top: -15px;" >
+      </a>
+      <div class="navbar-collapse collapse justify-content-end" id="navbarDefault" style="justify-content:center !important;margin-top: 10px;">
+
+        <ul class="navbar-nav" style="font-size: 0.7rem;">
+           <li class="nav-item">
+            <a  style="margin-top: 10px;font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif;"  class="nav-link js-scroll"  href="/accueil">Accueil</a>
+          </li>
+          <li class="nav-item">
+            <a id="piecefournir"  style="width: 130px;;margin-top: 10px;font-size: 14px;color:#f36e23;text-transform: initial;font-family: 'Poppins', 'sans-serif;" class="nav-link js-scroll blinktext" href="#">Pièces à fournir </a>
+          </li>
+
+          <div class="table_center">
+                <div class="drop-down ddpf">
+                <div class="drop-down__menu-box">
+                   <ul class="drop-down__menu">
+                    <a href="/piece_a_fournir">
+                     <li data-name="profile" class="drop-down__item"> En Côte d'Ivoire<img src="/assets/img/document.png" alt="" style="height: 25px;display: inline-block;position: absolute;right: 0px;"></li>
+                     </a>
+                     <a href="/piece_a_fournir_diaspora">
+                     <li data-name="dashboard" class="drop-down__item">Dans une ambassade<img src="/assets/img/document.png" alt="" style="height: 25px;display: inline-block;position: absolute;right: 0px;"></li></a>
+                   </ul>
+                </div>
+               </div>
+             </div>
+
+          <li class="nav-item">
+            <a style="font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif';margin-top: 10px;"  class="nav-link js-scroll"  href="/reclamation"> Reclamations</a>
+          </li>
+
+              
+          <li class="nav-item">
+            <a style="text-align: center;padding-top: 18px;vertical-align:middle ;min-height: 58px;background: #ffffff;border-radius: 5px;color: black;width: 212px;font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif;" class="nav-link js-scroll" href="/connexion">Demande de Passeport </a>
+          </li>
+          <li class="nav-item">
+            <a style="background: #f36e23;border-radius: 5px;color: white;width: 212px;font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif;" class="nav-link js-scroll" href="/inscription">Vous n'avez pas de compte ? Créez un compte </a>;
+          </li>
+                       <li class="nav-item">
+                          <span style="margin-top:5px;color: white;display: block;font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif;">00225.27.22.51.08.08</span> 
+             <span style="color: white;display: block;font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif;" >support@monpasseport.ci</span>
+           </li>
+        </ul>
+      </div>
+    </div>
+        
+      
+  </nav>
+
+
+
+
+
+    <nav class="nav-menu" style="margin-top: 80px">
+
+
+      <ul>
+
+        <li id="contactinfomobile" class="nav-item" style="display:none;margin-bottom: 20px;">
+             <span style="color: #28285e;display: block;font-weight:bold;margin-top: 10px;font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif;">01.03.62.62.19</span> 
+             <span style="color: #28285e;display: block;font-weight:bold;font-size: 14px;text-transform: initial;font-family: 'Poppins', 'sans-serif;" >Contact@Snedai.com</span>
+           </li>
+
+        <li ><a href="/accueil"><i class="bx bx-home"></i> <span>Accueil</span></a></li>
+
+         
+          
+        <li ><a href="/connexion"><i class="bx bx-user"></i> <span>Avez-vous un compte ? <br>  Connectez-vous  </span></a></li>
+        <li ><a href="/inscription"><i class="bx bx-file-blank"></i> <span>Vous n'avez pas de compte? <br> Créer un compte </span></a></li>
+
+        
+        <li ><a href="/demande_passeport"><i class="bx bx-book-content"></i> <span>Demande de passeport</span></a></li>
+        <li ><a href="/modification_rdv"><i class="bx bx-book-content"></i> <span>Modification rendez-vous </span></a></li>
+
+         <li id="reclamationmobile" style="display:none" ><a href="/reclamation"><i class="bx bx-book-content"></i> <span>Reclamation </span></a></li>
+
+         <li id="piecefounirmobile" style="display:none" ><a href="/piece_a_fournir"><i class="bx bx-book-content"></i> <span>Pièces à fournir  </span></a></li>
+
+
+        <li ><a href="/faq"><i class="bx bx-server"></i> <span>FAQ</span></a></li>
+
+                  <li><a href="/accueil#contact"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+
+                </ul>
+    </nav><!-- .nav-menu -->
+
+
+  </header><!-- End Header -->
+
+  <style type="text/css">
+  .table_center{
+  display:table-cell;
+  vertical-align: middle;
+}
+.drop-down{
+    display: inline-block;
+    position: relative;
+}
+
+.drop-down__button{
+  background: linear-gradient(to right,#3d6def, #8FADFE);
+  display: inline-block;
+  line-height: 40px;
+  padding: 0 18px;
+  text-align: left;
+  border-radius: 4px;
+  box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.2);
+  cursor: pointer;
+}
+
+.drop-down__name {
+    font-size: 9px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.drop-down__icon {
+    width: 18px;
+    vertical-align: middle;
+    margin-left: 14px;
+    height: 18px;
+    border-radius: 50%;
+    transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  
+}
+
+
+
+.drop-down__menu-box {
+    position: absolute;
+    width: 200px;
+    left: -203px;
+    top: 13px;
+    background-color: #fff;
+    border-radius: 4px;
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.2);
+     transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+ visibility: hidden;
+opacity: 0;
+  margin-top: 5px;
+}
+
+.drop-down__menu {
+    margin: 0;
+    padding: 0 13px;
+    list-style: none;
+  
+}
+.drop-down__menu-box:before{
+  content:'';
+  background-color: transparent;
+  border-right: 8px solid transparent;
+  position: absolute;
+  border-left: 8px solid transparent;
+  border-bottom: 8px solid #fff;
+  border-top: 8px solid transparent;
+  top: -15px;
+  right: 18px;
+
+}
+
+.drop-down__menu-box:after{
+  content:'';
+  background-color: transparent;
+}
+
+.drop-down__item {
+    font-size: 13px;
+    padding: 13px 0;
+    text-align: left;
+    font-weight: 500;
+    color: #909dc2;
+    cursor: pointer;
+    position: relative;
+    border-bottom: 1px solid #e0e2e9;
+}
+
+.drop-down__item-icon {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    right: 0px;
+    fill: #8995b6;
+  
+}
+
+.drop-down__item:hover .drop-down__item-icon{
+  fill: #28285e;
+}
+
+.drop-down__item:hover{
+  color: #28285e;
+}
+
+
+
+.drop-down__item:last-of-type{
+  border-bottom: 0;
+}
+
+.drop-down--active .drop-down__menu-box{
+visibility: visible;
+opacity: 1;
+  margin-top: 15px;
+}
+.drop-down__item:before{
+  content:'';
+  position: absolute;
+  width: 3px;
+  height: 28px;
+  background-color: #28285e;
+  left: -13px;
+  top: 50%;
+  transform: translateY(-50%);
+  display:none;
+}
+
+.drop-down__item:hover:before{
+  display:block;
+}
+
+.submenuFaq:before{
+  right: 170px !important;
+}
+
+/*marquee */
+.marquee {
+   /*margin: 2rem 0;*/
+   font-size: 8vw;
+   overflow: hidden;
+}
+
+.marquee--long { 
+   font-size: 1.25vw; 
+}
+
+.marquee span {   
+    display: inline-block;
+    white-space: nowrap;
+    color: #00112C;
+    width: var(--tw);
+    text-shadow: var(--tw) 0 currentColor, 
+                 calc(var(--tw) * 2) 0 currentColor, 
+                 calc(var(--tw) * 3) 0 currentColor,
+                 calc(var(--tw) * 4) 0 currentColor;
+   
+    will-change: transform;
+    animation: marquee var(--ad) linear infinite;
+    animation-play-state: running;
+}
+
+.marquee:hover span {
+    animation-play-state: running;
+}
+
+@keyframes  marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+/*  
+ * on MacOs: System Preferences > 
+ *           Accessibility > 
+ *           Display > Reduce motion
+ */
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee span {
+    animation: none;
+    text-shadow: none;
+    width: auto;
+    display: block;
+    line-height: 1.5;
+    text-align: center;
+    white-space: normal;
+  }
+}
+
+
+
+</style>
+<script type="text/javascript" src="/assets/js/plugins/cloudflare_jquery3.3.1.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+
+  $('#userprofile').click(function(){
+    $('.profile').toggleClass('drop-down--active');
+  });
+
+  $('#piecefournir').click(function(){
+    $('.ddfaq').removeClass('drop-down--active');
+    $('.ddpf').toggleClass('drop-down--active');
+  });
+
+   $('#faq').click(function(){
+    
+    $('.ddpf').removeClass('drop-down--active');
+    $('.ddfaq').toggleClass('drop-down--active');
+  });
+
+});
+</script>  
+
+ 
+
+
+
+    <!-- ======= Hero Section ======= -->
+      <div style="height: 50px">
+          &nbsp;
+       </div>
+      <section id="hero" class="d-flex flex-column justify-content-center newdemand" style="height: auto;" >
+         <div class="container" data-aos="zoom-in" data-aos-delay="100" >
+         
+            <div class="row mt-3">
+               <h1 style="color: #ff7121">Information  </h1>
+            </div>
+            <div style="height:30px">&nbsp;</div>
+            <div class="row mt-3">
+              
+               <h1 style="color: white;line-height: 70px; font-size: 50px;">la page que vous recherchez n'est pas disponible. </h1>
+
+            </div>
+            <div class="row mt-3">
+             <a style="background: #27285e;border-radius: 5px;color: white;width: 450px;font-size: 44px;text-transform: initial;font-family: 'Poppins', 'sans-serif;" class="nav-link js-scroll" href="/connexion">Retour à l'accueil </a>
+            </div>
+
+         </div>
+
+        <div style="height: 300px">
+          &nbsp;
+         </div> 
+      </section>
+      <!-- End Hero -->
+
+       
+   
+
+  <!-- End #main -->
+
+
+
+  <!-- ======= Footer ======= -->
+    <footer id="footer">
+    <div class="container">
+
+    <div class="form-row">
+           <div class="col-md-4 form-group input_wrap">
+            <a href="/">
+               <img src="/assets/img/Logo_SNEDAI_Certif_white.svg" alt=""  style="height: 60px;display: inline-block;">
+            </a>
+            
+           </div>
+      
+          <div class="col-md-4 form-group input_wrap" style="text-align: left;padding-top: 15px;">
+            <div class="copyright">
+              &copy; Copyright <strong><span>Monpasseport</span></strong>. Tous droits reservés.
+            </div>
+            <div class="credits">
+              Une propriété de Snedai CI, Filiale du Groupe Snedai. 
+            </div>
+          </div>
+          
+          <div class="col-md-4 form-group input_wrap" style="padding-top: 18px;">
+              <div class="social-links">
+              <a target="_blank" href="https://twitter.com/snedai_ci" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a target="_blank" href="https://web.facebook.com/snedai.ci" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a target="_blank" href="https://www.instagram.com/snedaici/" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a target="_blank" href="https://www.youtube.com/watch?v=QcXoS4XhixU" class="youtube"><i class="bx bxl-youtube"></i></a>
+              <a target="_blank" href="https://www.linkedin.com/company/snedai-groupe/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+          </div>
+
+      </div>
+    </div>
+  </footer>  <!-- =======End Foote =======r -->
+
+  <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  
+  <script src="/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="/assets/vendor/typed.js/typed.min.js"></script>
+  <script src="/assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/master.js"></script>
+<script type="text/javascript">console.log($.fn.jquery)</script>
+    
+    
+  <link href="/flash/flash.css" rel="stylesheet">
+  <script type="text/javascript" src="/flash/flash.js"></script>
+  <script src="/assets/js/sendEmail.js"></script>
+  
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/60f5549ad6e7610a49abf582/1fav54v3g';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+</body>
+
+</html>
